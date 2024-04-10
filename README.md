@@ -10,4 +10,4 @@ Em resumo, o estudo é um investimento valioso que pode melhorar significativame
 ![](https://media.tenor.com/mkyTkSfGvFEAAAAM/cool-fun.gif)
 
 comando de fórmula 
-$\Sqrrt25$
+$\sqrt25$
